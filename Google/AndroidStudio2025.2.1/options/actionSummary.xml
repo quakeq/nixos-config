@@ -1,0 +1,97 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="5" l="1778352032050" />
+    </e>
+    <e n="$Undo">
+      <i c="7" l="1778352052233" />
+    </e>
+    <e n="DeveloperServices.ConnectionAssistant">
+      <i c="2" l="1778350663327" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="68" l="1778352267394" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1778351611772" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="23" l="1778351336241" />
+    </e>
+    <e n="EditorEnter">
+      <i c="6" l="1778351343348" />
+    </e>
+    <e n="EditorLeft">
+      <i c="8" l="1778351328847" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="7" l="1778351342855" />
+    </e>
+    <e n="EditorPaste">
+      <i c="8" l="1778352155841" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="5" l="1778351339331" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1778351324296" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1778352234828" />
+    </e>
+    <e n="GoogleLoginV2.LoginService">
+      <i c="1" l="1778351426285" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1778351550369" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1778350652988" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1778351533754" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1778351191340" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1778350637145" />
+    </e>
+    <e n="Run">
+      <i c="9" l="1778352271429" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1778352252011" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1778350327304" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1778352306076" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1778350278799" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="1" l="1778350669105" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="1" l="1778350670120" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1778350242900" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="7" l="1778352314565" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1778355946877" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1778351469308" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1778350655552" />
+    </e>
+  </component>
+</application>

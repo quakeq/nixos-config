@@ -1,0 +1,3 @@
+{"timestamp":108684,"category":"newtab","name":"opened","extra":{"glean_timestamp":"1778389251329","window_inner_height":"983","newtab_visit_id":"{2b11581b-73ac-401a-a23e-c9e6f25d5e13}","window_inner_width":"665","source":"about:newtab"},"execution_counter":1}
+{"timestamp":108694,"category":"newtab","name":"weather_impression","extra":{"glean_timestamp":"1778389251340","newtab_visit_id":"{2b11581b-73ac-401a-a23e-c9e6f25d5e13}"},"execution_counter":1}
+{"timestamp":108695,"category":"newtab","name":"widgets_impression","extra":{"glean_timestamp":"1778389251340","newtab_visit_id":"{2b11581b-73ac-401a-a23e-c9e6f25d5e13}","widget_size":"mini","widget_name":"weather"},"execution_counter":1}

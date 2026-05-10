@@ -1,0 +1,20 @@
+<application>
+  <component name="GoogleLoginApplicationSettings">
+    <option name="activeUser" value="thomasahn2009@gmail.com" />
+    <option name="userEmail2FeaturesStore">
+      <map>
+        <entry key="thomasahn2009@gmail.com">
+          <value>
+            <set>
+              <option value="GiAS" />
+              <option value="Backup and Sync" />
+              <option value="Firebase" />
+              <option value="Android Vitals" />
+              <option value="User Info" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
