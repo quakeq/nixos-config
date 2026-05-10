@@ -24,7 +24,7 @@
             },
             "permissions": {
                 "video": null,
-                "audio": null,
+                "audio": true,
                 "fullscreen": true,
                 "notifications": null,
                 "display-capture": true,

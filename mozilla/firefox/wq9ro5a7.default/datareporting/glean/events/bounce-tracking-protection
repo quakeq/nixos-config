@@ -1,9 +1,0 @@
-{"timestamp":3710274,"category":"bounce.tracking.protection","name":"purge_action","extra":{"success":"true","bounce_time":"1778285387","is_dry_run":"true","site_host":"hyprland.org","glean_timestamp":"1778352852073","require_stateful_bounces":"false"}}
-{"timestamp":7310180,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1778356451978","require_stateful_bounces":"false","success":"true","is_dry_run":"true","site_host":"localhost","bounce_time":"1778350618"}}
-{"timestamp":7310180,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1778356451978","require_stateful_bounces":"false","site_host":"agentsmd.io","success":"true","bounce_time":"1778351213","is_dry_run":"true"}}
-{"timestamp":117230,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-09T14:22-07:00","glean_timestamp":"1778361758969"},"execution_counter":1}
-{"timestamp":1372356,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-09T14:43-07:00","glean_timestamp":"1778363014095"},"execution_counter":2}
-{"timestamp":4971877,"category":"bounce.tracking.protection","name":"purge_action","extra":{"success":"true","require_stateful_bounces":"false","bounce_time":"1778358448","site_host":"gmail.com","is_dry_run":"true","glean_timestamp":"1778366613616"},"execution_counter":2}
-{"timestamp":563185,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1778382796884","glean.startup.date":"2026-05-09T20:13-07:00"},"execution_counter":3}
-{"timestamp":19353,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1778389115085","glean.startup.date":"2026-05-09T21:58-07:00"},"execution_counter":4}
-{"timestamp":21085,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1778389163730","glean.startup.date":"2026-05-09T21:59-07:00"},"execution_counter":5}
