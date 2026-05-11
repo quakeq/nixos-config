@@ -38,6 +38,7 @@
 	  ./modules/bluetooth.nix
 	  ./modules/messaging.nix
 	  ./modules/gaming.nix
+	  ./modules/blender.nix
 	];
       };
     };
