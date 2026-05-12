@@ -40,6 +40,8 @@
 	  ./modules/gaming.nix
 	  ./modules/blender.nix
 	  ./modules/printing.nix
+	  ./modules/vpn.nix
+	  ./modules/qbittorrent.nix
 	];
       };
     };
