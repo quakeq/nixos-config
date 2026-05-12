@@ -42,6 +42,7 @@
 	  ./modules/printing.nix
 	  ./modules/vpn.nix
 	  ./modules/qbittorrent.nix
+	  ./modules/kicad.nix
 	];
       };
     };
