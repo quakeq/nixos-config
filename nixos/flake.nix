@@ -39,6 +39,7 @@
 	  ./modules/messaging.nix
 	  ./modules/gaming.nix
 	  ./modules/blender.nix
+	  ./modules/printing.nix
 	];
       };
     };
