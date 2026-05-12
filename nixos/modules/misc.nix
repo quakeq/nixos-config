@@ -5,5 +5,6 @@
     xev
     btop
     google-chrome
+    obsidian
   ];
 }
