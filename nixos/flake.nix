@@ -43,6 +43,7 @@
 	  ./modules/vpn.nix
 	  ./modules/qbittorrent.nix
 	  ./modules/kicad.nix
+	  ./modules/screenshot.nix
 	];
       };
     };
