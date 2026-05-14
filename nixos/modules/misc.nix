@@ -7,5 +7,6 @@
     google-chrome
     obsidian
     unzip
+    mpv
   ];
 }
