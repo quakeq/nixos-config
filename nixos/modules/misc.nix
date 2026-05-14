@@ -6,5 +6,6 @@
     btop
     google-chrome
     obsidian
+    unzip
   ];
 }
