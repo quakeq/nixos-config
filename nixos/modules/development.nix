@@ -5,5 +5,6 @@
     android-studio
     git-credential-manager
     vscode
+    android-tools
   ];
 }
