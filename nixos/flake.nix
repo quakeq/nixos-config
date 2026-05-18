@@ -44,6 +44,7 @@
 	  ./modules/qbittorrent.nix
 	  ./modules/kicad.nix
 	  ./modules/screenshot.nix
+	  ./modules/localsend.nix
 	];
       };
     };
