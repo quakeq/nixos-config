@@ -9,6 +9,6 @@
     unzip
     mpv
     gnupg
-    pinentry
+    pinentry-curses
   ];
 }
