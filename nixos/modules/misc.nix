@@ -9,5 +9,6 @@
     unzip
     mpv
     gnupg
+    pinentry
   ];
 }
