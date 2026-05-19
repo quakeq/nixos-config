@@ -8,5 +8,6 @@
     obsidian
     unzip
     mpv
+    gnupg
   ];
 }
