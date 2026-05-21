@@ -12,5 +12,6 @@
     unrar
     rpm
     p7zip
+    qimgv
   ];
 }
