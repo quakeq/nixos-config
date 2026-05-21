@@ -1,9 +1,7 @@
-{ pkgs, ... }:
+{ pkgs, ... }: 
 
 {
   environment.systemPackages = with pkgs; [
-    krusader
-    kdiff3
-    krename
+    thunderbird
   ];
 }
