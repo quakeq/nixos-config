@@ -11,7 +11,6 @@
     rar
     unrar
     rpm
-    dkpg
     p7zip
   ];
 }
