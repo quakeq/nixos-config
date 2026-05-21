@@ -45,6 +45,7 @@
 	  ./modules/kicad.nix
 	  ./modules/screenshot.nix
 	  ./modules/localsend.nix
+	  ./modules/files.nix
 	];
       };
     };
