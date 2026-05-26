@@ -2,7 +2,7 @@
 
 {
   environment.systemPackages = with pkgs; [
-    styluslabs-write
+    xournalpp
     krita
   ];
 }
