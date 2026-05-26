@@ -11,7 +11,19 @@
     ];
 
   boot.initrd.availableKernelModules = [ "xhci_pci" "nvme" "usb_storage" "sd_mod" ];
-  boot.initrd.kernelModules = [ "pinctrl_tigerlake" ];
+
+  boot.initrd.kernelModules = [ 
+    "pinctrl_tigerlake" 
+  ]
+    # Additional modules for touchscreen/touchpad in initrd (for unl0kr on-screen keyboard)
+  ++ lib.optionals config.boot.initrd.unl0kr.enable [
+    "intel_lpss_pci"
+    "i2c_hid_acpi"
+    "i2c_hid"
+    "hid_multitouch"
+    "hid_generic"
+  ];
+
   boot.kernelModules = [ "kvm-intel" ];
   boot.extraModulePackages = [ ];
 
@@ -32,12 +44,5 @@
 
   nixpkgs.hostPlatform = lib.mkDefault "x86_64-linux";
   hardware.cpu.intel.updateMicrocode = lib.mkDefault config.hardware.enableRedistributableFirmware;
-    # Additional modules for touchscreen/touchpad in initrd (for unl0kr on-screen keyboard)
-  ++ lib.optionals config.boot.initrd.unl0kr.enable [
-    "intel_lpss_pci"
-    "i2c_hid_acpi"
-    "i2c_hid"
-    "hid_multitouch"
-    "hid_generic"
-  ];
+    
 }
