@@ -6,8 +6,6 @@
 {
   imports = [
     (modulesPath + "/installer/scan/not-detected.nix")
-    ../common
-    ../../../common/cpu/intel
     ];
 
   boot.initrd.availableKernelModules = [ "xhci_pci" "nvme" "usb_storage" "sd_mod" ];
