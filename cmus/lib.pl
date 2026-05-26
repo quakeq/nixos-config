@@ -93,6 +93,46 @@
 /mnt/extreme/Music/Joe Hisaishi - Nausicaä of the Valley of the Wind Soundtrack_ Towards the Faraway Land (2004)/11. Joe Hisaishi - The Resurrection of the Giant Warrior.flac
 /mnt/extreme/Music/Joe Hisaishi - Nausicaä of the Valley of the Wind Soundtrack_ Towards the Faraway Land (2004)/12. Joe Hisaishi - Nausicaä Requiem.flac
 /mnt/extreme/Music/Joe Hisaishi - Nausicaä of the Valley of the Wind Soundtrack_ Towards the Faraway Land (2004)/13. Joe Hisaishi - The Bird Man - Ending theme.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/01. Kero Kero Bonito - Bonito Intro.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/02. Kero Kero Bonito - Intro Bonito.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/03. Kero Kero Bonito - Sick Beat.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/04. Kero Kero Bonito - My Party.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/05. Kero Kero Bonito - Cat Vs. Dog (English).flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/06. Kero Kero Bonito - Kero Kero Bonito.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/07. Kero Kero Bonito - Babies (Are so Strange).flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/08. Kero Kero Bonito - Bonito Jingle.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/09. Kero Kero Bonito - Homework.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/10. Kero Kero Bonito - Pocket Crocodile.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/11. Kero Kero Bonito - Cat Vs. Dog (Japanese).flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/12. Kero Kero Bonito - Park Song.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/13. Kero Kero Bonito - Let's Go to the Forest.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/14. Kero Kero Bonito - Small Town.flac
+/mnt/extreme/Music/Kero Kero Bonito - Intro Bonito (2013)/15. Kero Kero Bonito - I'd Rather Sleep.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/01. Kero Kero Bonito - Waking Up.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/02. Kero Kero Bonito - Heard a Song.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/03. Kero Kero Bonito - Graduation.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/04. Kero Kero Bonito - Fish Bowl.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/05. Kero Kero Bonito - Big City.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/06. Kero Kero Bonito - Break.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/07. Kero Kero Bonito - Lipslap.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/08. Kero Kero Bonito - Try Me.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/09. Kero Kero Bonito - Paintbrush.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/10. Kero Kero Bonito - Trampoline.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/11. Kero Kero Bonito - Picture This.flac
+/mnt/extreme/Music/Kero Kero Bonito - Bonito Generation (2016)/12. Kero Kero Bonito - Hey Parents.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/01. Kero Kero Bonito - Outside.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/02. Kero Kero Bonito - Time Today.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/03. Kero Kero Bonito - Only Acting.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/04. Kero Kero Bonito - Flyway.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/05. Kero Kero Bonito - Dump.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/06. Kero Kero Bonito - Make Believe.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/07. Kero Kero Bonito - Dear Future Self.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/08. Kero Kero Bonito - Visiting Hours.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/09. Kero Kero Bonito - If I'd Known.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/10. Kero Kero Bonito - Sometimes.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/11. Kero Kero Bonito - Swimming.flac
+/mnt/extreme/Music/Kero Kero Bonito - Time 'n' Place (2018)/12. Kero Kero Bonito - Rest Stop.flac
+/mnt/extreme/Music/Kero Kero Bonito - It's Bugsnax! (2020)/1. Kero Kero Bonito - It's Bugsnax!.flac
 /mnt/extreme/Music/Last Dinosaurs - Yumeno Garden (2018)/01. Last Dinosaurs - Eleven.flac
 /mnt/extreme/Music/Last Dinosaurs - Yumeno Garden (2018)/02. Last Dinosaurs - Dominos.flac
 /mnt/extreme/Music/Last Dinosaurs - Yumeno Garden (2018)/03. Last Dinosaurs - Bass God.flac
@@ -324,6 +364,19 @@
 /mnt/extreme/Music/Temachii - flora maniia (2023)/10. Temachii - a lamb's lullaby.flac
 /mnt/extreme/Music/Temachii - flora maniia (2023)/11. Temachii - may you never forget me.flac
 /mnt/extreme/Music/Temachii - flora maniia (2023)/12. Temachii - stupid piano.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/01. Tiffany Day - EVERYTHING I'VE EVER WANTED.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/02. Tiffany Day - DOIT4ME.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/03. Tiffany Day - SAME LA.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/04. Tiffany Day - PRETTY4U.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/05. Tiffany Day - COPYCAT.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/06. Tiffany Day - NO LUCK.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/07. Tiffany Day - BREAKUP.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/08. Tiffany Day - TELL ME WHAT I DID.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/09. Tiffany Day - START OVER.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/10. Tiffany Day - LOOK UP.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/11. Tiffany Day - AMERICAN GIRL.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/12. Tiffany Day - FAREWELL TOLEDO.flac
+/mnt/extreme/Music/Tiffany Day - HALO (2026)/13. Tiffany Day - IT'S NOT LIKE THAT ANYMORE.flac
 /mnt/extreme/Music/Wallows - Singles Collection 2017-2020 (2022)/01. Wallows - Pleaser.flac
 /mnt/extreme/Music/Wallows - Singles Collection 2017-2020 (2022)/02. Wallows - Sun Tan.flac
 /mnt/extreme/Music/Wallows - Singles Collection 2017-2020 (2022)/03. Wallows - Uncomfortable.flac
