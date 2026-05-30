@@ -5,7 +5,6 @@
     krusader
     kdiff3
     krename
-    lha
     zip
     arj
     rar
