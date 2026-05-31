@@ -10,5 +10,6 @@
     mpv
     gnupg
     pinentry-curses
+    brightnessctl
   ];
 }
