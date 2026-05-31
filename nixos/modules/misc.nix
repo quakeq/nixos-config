@@ -10,6 +10,5 @@
     mpv
     gnupg
     pinentry-curses
-    xrandr
   ];
 }
