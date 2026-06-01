@@ -47,6 +47,7 @@
 	  ./modules/localsend.nix
 	  ./modules/files.nix
 	  ./modules/drawing.nix
+	  ./modules/recording.nix
 	];
       };
     };
