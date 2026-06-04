@@ -6,5 +6,6 @@
     git-credential-manager
     vscode
     android-tools
+    python3
   ];
 }
