@@ -1,2 +1,2 @@
-# nixos-config
-my nixos config :D
+# dot files
+my arch config :D
